@@ -1,0 +1,2 @@
+def adsnan():
+    pass
